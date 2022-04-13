@@ -1,0 +1,64 @@
+{
+	"Ads": {
+		"AdMob": {
+			"activated": false,
+			"banner": "ca-app-pub-7522731665883717/5566592221",
+			"native": "ca-app-pub-7522731665883717/2940428884",
+			"interstitial": "ca-app-pub-7522731665883717/9641568606"
+		},
+		"FAN": {
+			"activated": false,
+			"banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+			"interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+		},
+		"ironSource": {
+			"activated": false,
+			"app_key": "11dae943d"
+		},
+		"Tapdaq": {
+			"activated": false,
+			"AppId": "619f526486c31c4e07c1134c",
+			"ClientKey": "9dc5aa50-c237-433e-88c0-ecd5eed2274b"
+		},
+		"Yandex": {
+			"activated": true,
+			"banner": "R-M-1600508-3",
+			"native": "R-M-1600508-2",
+			"interstitial": "R-M-1600508-1"
+		}
+	},
+	"Config": {
+		"app_version": "1.0",
+		"package_name": "com.babyysc.bibyyelllife",
+		"rattingIsEnabled": false
+	},
+	"Privacy": {
+		"isEnabled": true,
+		"title": "Privacy Policy",
+		"message": "Privacy Policy Message",
+		"url": "https://termly.io/privacy-policy/"
+	},
+
+	"GuideContent": [{
+			"title": "Guide 1",
+			"description": "The Baby In Yellow is a prominent name in the current mobile game chart. In the game, you will play the role of a baby sister and take care of a child for a few days when the child’s parents are away. "
+		},
+		{
+			"title": "Guide 2",
+			"description": "It doesn’t matter when this child is not a normal child. Here’s a kid who will turn your babysitting simulation game into a horror game. It has the power of the devil and you will have heart-stopping moments in that spooky house.The gameplay is very simple,you just do the task of a babysitter who needs to follow the milestones that the game requires.However,there will be times when you see strange phenomena happening in this house and it can make your heart skip a beat.This is a game not for the faint of heart.If you are new to the game and do not know what to do,you can follow the instructions below."
+		},
+		{
+			"title": "Guide 3",
+			"description": " After entering the game, when approaching the baby, the door, the refrigerator and some other items, you will see a hint icon appear as shown below. Click it directly to perform the action. Look up in the upper left corner and there you will know what the current quest requirement is. "
+		},
+		{
+			"title": "Guide 4  ",
+			"description": " The simple tasks are to get milk to change diapers and put the baby to sleep, if you need milk, go to the room at the bottom of the stairs. Open the refrigerator and you will see milk."
+		},
+		{
+			"title": "Guide 5",
+			"description": "Upstairs, there will be the last room and the room at the top of the stairs is open. The last room will be where you let your baby sleep. The room at the top of the stairs you can open on the third day will contain an item called Talisma, which is used to counter the demon in the child. "
+		}
+	]
+}
